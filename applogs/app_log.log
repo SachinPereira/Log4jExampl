@@ -1,0 +1,7 @@
+[INFO ] 2019-10-16 10:54:55.445 [main] Log4jApplication - Starting Log4jApplication on Moneesh-LT with PID 7439 (/home/sachin/Downloads/Springboottask/Log4j/target/classes started by sachin in /home/sachin/Downloads/Springboottask/Log4j)
+[INFO ] 2019-10-16 10:54:55.456 [main] Log4jApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2019-10-16 10:54:59.296 [main] Log4jApplication - Started Log4jApplication in 4.68 seconds (JVM running for 6.209)
+[INFO ] 2019-10-16 10:55:10.057 [http-nio-8080-exec-1] Controller - Info log in our greeting methodINFO
+[WARN ] 2019-10-16 10:55:10.057 [http-nio-8080-exec-1] Controller - Warning log in our greeting method
+[ERROR] 2019-10-16 10:55:10.057 [http-nio-8080-exec-1] Controller - Error in our greeting method
+[FATAL] 2019-10-16 10:55:10.057 [http-nio-8080-exec-1] Controller - Damn! Fatal error. Please fix me.
